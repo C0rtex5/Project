@@ -1,6 +1,6 @@
 # 🌟 Luminos - A Fork from Blender
 
-Luminos is a general-purpose 3D software, forked from Blender, aiming to provide an intuitive yet powerful environment for 3D modelling, animation, rendering, and more. Built from the solid foundation of Blender, Luminos introduces unique features, such as AI Chat, like ChatGPT and Ollama, which you can personalize to your own taste and needs, also, Luminos has a built-in unique library which the artists can contribute with textures, models, materials, and much more.
+Luminos is a general-purpose 3D software, forked from Blender, aiming to provide an intuitive yet powerful environment for 3D modelling, animation, rendering, and more. Based on the solid foundation of Blender, Luminos introduces distinctive features, like AI Chat, such as ChatGPT and Ollama, which can be customized to suit one's preferences and requirements. Additionally, Luminos boasts a unique library that artists can contribute with textures, models, materials, and a host of other unique features.
 
 ## ✨ Key Features
 
