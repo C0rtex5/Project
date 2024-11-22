@@ -1,6 +1,6 @@
 # 🌟 Luminos - A Fork from Blender
 
-**Luminos** is a general-purpose 3D software, forked from Blender and aiming to provide an intuitive and powerful environment for 3D modelling, animation, rendering, and more. Based on the solid foundation of **Blender**, Luminos introduces distinctive features, like AI Chat, such as **Ollama**, which can be customized to suit one's preferences and requirements. Additionally, Luminos provides an library of platforms that artists are used to, such as Skechfab, Blender Kit, Poliigon, and more and a host of other unique features and addons.
+**Luminos** is a general-purpose 3D software, forked from Blender and aiming to provide an intuitive and powerful environment for 3D modelling, animation, rendering, and more. Based on the solid foundation of **Blender**, Luminos introduces distinctive features, like AI Chat, such as **Ollama**, which can be customized to suit one's preferences and requirements. Additionally, Luminos provides an library of platforms that artists are used to, such as Skechfab, Blender Kit, Poliigon, and more and a host of other unique features and addons .
 
 ## ✨ Key Features
 
@@ -43,10 +43,10 @@ To get started follow these instructions:
 4. **Customize your workspace**: Customize your preferences for your needs.
 5. **Save your preferences**: And you are done, it's saved automatically.
 
-## 📚 Documentation
+<!-- ## 📚 Documentation
 
 Full documentation for Luminos, including tutorials, scripting references, and feature guides, can be found on our [official documentation site](#).
-
+ -->
 <!-- ## 🌐 Community
 
 Join our growing community to share ideas, ask questions, and collaborate on projects:
