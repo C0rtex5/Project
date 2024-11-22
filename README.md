@@ -74,7 +74,7 @@ Special thanks to the Blender Foundation for the incredible software that i pers
 
 Also, the credits are for the Blender Fondation, and this is a non-lucrative project, which is modified and developed by me initally. This project isn't just an open source project based on Blender, it is a thanks for the amazing comunnity that was built over the years from Blender.
 
-Also the source code is [here](#[text](https://github.com/blender/blender)).
+Also the source code is [here](https://github.com/blender/blender).
 
 ---
 
