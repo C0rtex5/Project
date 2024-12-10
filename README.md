@@ -1,83 +1,69 @@
-# 🌟 Luminos - A Fork from Blender
+🌟 PoliNexus - A Next-Generation 3D Creation Platform
 
-**Luminos** is a general-purpose 3D software, forked from Blender and aiming to provide an intuitive and powerful environment for 3D modelling, animation, rendering, and more. Based on the solid foundation of **Blender**, Luminos introduces distinctive features, like AI Chat, such as **Ollama**, which can be customized to suit one's preferences and requirements. Additionally, Luminos provides an library of platforms that artists are used to, such as Skechfab, Blender Kit, Poliigon, and more and a host of other unique features and addons .
+PoliNexus is a cutting-edge 3D software based on the Blender foundation, designed to deliver a seamless, intuitive, and highly adaptable environment for 3D modeling, animation, rendering, and beyond. With its integration of advanced AI tools like Ollama and Stable Diffusion, PoliNexus sets a new standard for collaborative creativity, combining robust features with user-driven customization.
 
-## ✨ Key Features
+✨ Key Features
 
-- **🎨 Intuitive User Interface**: A reimagined UI for a better user experience, making tools and functions more accessible without any type of ***strange*** interfaces that you get lost.
+🎨 Intuitive User Interface: A reimagined UI for a smoother and more accessible user experience, tailored to fit diverse workflows while maintaining the familiarity of Blender.
 
-- **🚀 Improved Rendering Pipeline**: Optimized rendering options and integration with external engines, providing faster, high-quality renders.
+🚀 Optimized Rendering Pipeline: High-performance rendering options, with streamlined support for external engines to produce exceptional visuals efficiently.
 
-- **🚠 Familiar Modelling Tools**: Advanced modelling features, including procedural workflows, extended sculpting capabilities, and more intuitive mesh editing, giving a familiar look for the Blender users.
+🚠 Familiar Modeling Tools: Enhanced modeling capabilities, including procedural workflows, extended sculpting tools, and intuitive mesh editing for users accustomed to Blender’s ecosystem.
 
-- **📁 Integrated Asset Library**: Built-in asset manager to store, organize, and reuse materials, models, and textures across projects.
+📁 Collaborative Asset Library: A unique library where artists can contribute and share textures, models, materials, and other resources, fostering a rich and dynamic creative community.
 
-- **🖥️ Customizable Workspaces**: Tailor your workspace to fit specific tasks, whether modeling, sculpting, animation, or VFX, with templates to configure quicker and better your Luminos Enviroment.
+🖥️ Customizable Workspaces: Fully adaptable workspaces optimized for specific tasks like modeling, animation, sculpting, or VFX creation.
 
-- **🐍 Extended Python API**: Enhanced scripting capabilities for custom add-ons, automation, and integration with other tools in your pipeline.
+🐍 Advanced Python API: Extended scripting capabilities for creating custom add-ons, automating processes, and integrating with third-party tools.
 
-- **🎙️ AI Chat**: AI Chat, such as ChatGPT and Ollama, can be customized to suit one's preferences and requirements.
+🔄 AI-Powered Enhancements: Seamless integration of AI technologies like Ollama for text-based interaction and Stable Diffusion for image generation, revolutionizing creative workflows.
 
-- **📦 Cross-Platform**: Luminos is available for macOS, **Windows**, and **Linux**. The `macOS` version still under development.
+🚀 Getting Started
 
-## 🚀 Getting Started
+To embark on your journey with PoliNexus, follow these steps:
 
-To get started follow these instructions:
+💾 Download: Access the latest release from our downloads page.
 
-**💾 For Linux**: Download the flatpak on this link: [Linux](#).
+💻 Installation: Follow the included installation guide for a quick setup.
 
-**💾 For Windows**: Download the installer on this link: [Windows](#).
+🔍 Explore: Begin with sample projects or dive into our quick start guide to familiarize yourself with the tools.
 
-## 💻 Installation
+📚 Documentation
 
-1. **📦 Download**: Download the Luminos package for your platform.
-2. **📦 Extract**: Extract the downloaded package.
-3. **📦 Run**: Run the Luminos.
-4. **📦 Enjoy**: Enjoy Luminos!
+Comprehensive documentation, including tutorials, feature guides, and scripting references, is available on our official documentation site.
 
-## 🛠️ Customization
+🌐 Community
 
-1. **Open Luminos**: Open the Luminos.
-2. **Select your workspace**: Go to `edit`, same as blender.
-3. **Select your preferences**: Go to `preferences`.
-4. **Customize your workspace**: Customize your preferences for your needs.
-5. **Save your preferences**: And you are done, it's saved automatically.
+Engage with a vibrant community of creators and developers to share ideas, seek advice, and collaborate on innovative projects:
 
-<!-- ## 📚 Documentation
+💬 Discord: Connect with peers on our Discord server.
 
-Full documentation for Luminos, including tutorials, scripting references, and feature guides, can be found on our [official documentation site](#).
- -->
-<!-- ## 🌐 Community
+🗒️ Forums: Participate in discussions and share knowledge on our community forums.
 
-Join our growing community to share ideas, ask questions, and collaborate on projects:
+🛠️ GitHub Issues: Report bugs or propose new features via our GitHub Issues page.
 
-- **💬 Discord**: Join our Discord server to connect with other artists and developers.
-- **🗒️ Forums**: Participate in discussions on our community forums.
-- **🛠️ GitHub Issues**: Report bugs or suggest features in our [GitHub Issues](#). -->
+🤝 Contributing
 
-<!-- ## 🤝 Contributing
+PoliNexus thrives on community contributions. Whether it’s new features, bug fixes, or documentation enhancements, your input is invaluable. Here’s how to contribute:
 
-We welcome contributions from the community. Whether it's new features, bug fixes, or documentation improvements, you can get started by forking the repository and submitting a pull request.
+🍴 Fork: Create a personal fork of the repository on GitHub.
 
-1. **🍴 Fork**: Click on the fork button on GitHub to create your own copy.
-2. **📂 Clone**: Clone your fork to your local machine.
-3. **💡 Code**: Make your changes and improvements.
-4. **🔄 Pull Request**: Submit a pull request with a detailed explanation of your changes. -->
+📂 Clone: Clone your fork locally.
 
-## 📜 License
+💡 Code: Implement your changes and improvements.
 
-Luminos is released under the [GNU General Public License (GPL)](https://www.gnu.org/licenses/gpl-3.0.html), continuing the commitment to open-source software.
+🔄 Pull Request: Submit a pull request with a detailed description of your modifications.
 
-## ❤️ Acknowledgements and credits
+📜 License
 
-Special thanks to the Blender Foundation for the incredible software that i personally love, which is the foundation of Luminos. This project wouldn’t be possible without their dedication to open-source 3D software and inspiration.
+PoliNexus is distributed under the GNU General Public License (GPL), reaffirming its commitment to open-source innovation.
 
-Also, the credits are for the Blender Fondation, and this is a non-lucrative project, which is modified and developed by me initally. This project isn't just an open source project based on Blender, it is a thanks for the amazing comunnity that was built over the years from Blender.
+❤️ Acknowledgements and Credits
 
-Also the source code is [here](https://github.com/blender/blender).
+We extend our gratitude to the Blender Foundation for their groundbreaking contributions to the 3D software community. PoliNexus builds on their legacy, blending innovation with the spirit of collaboration.
 
----
+This project is non-commercial and developed initially as a personal endeavor. It represents not just a software evolution but also a heartfelt acknowledgment of the incredible community that has supported Blender over the years.
 
-<!-- **🌠 To Illuminate The way**
+🌠 Lighting the Path Forward
 
-Join us on our journey to reseahpe 3D creation. For any questions or feedback, feel free to reach out via our community channels or email us at [contact@luminos3d.com](mailto\:contact@luminos3d.com). -->
+Join us in reshaping the landscape of 3D creation. For inquiries or feedback, feel free to reach out via our community channels or email us at contact@polinexus3d.com.
