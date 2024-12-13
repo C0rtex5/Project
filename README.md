@@ -1,4 +1,6 @@
-🌟 PoliNexus - A Next-Generation 3D Creation Platform
+# PoliNexus
+
+AI and 3D software working together
 
 PoliNexus is a cutting-edge 3D software based on the Blender foundation, designed to deliver a seamless, intuitive, and highly adaptable environment for 3D modeling, animation, rendering, and beyond. With its integration of advanced AI tools like Ollama and Stable Diffusion, PoliNexus sets a new standard for collaborative creativity, combining robust features with user-driven customization.
 
